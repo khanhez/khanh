@@ -1,0 +1,49 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+body{
+	height: 1000px;
+}
+header{
+	height: 60px;
+	background-color: #192433;
+}
+ul li a{
+	color: white;
+}
+nav
+{
+	height: 50px;
+	background-color: #151d28;
+}
+#y1  #khoi1 .anh  p
+{
+	text-align: center;
+}
+#y1
+{
+	margin-bottom: 10px;
+}
+#y2
+{
+	margin-bottom: 10px;
+}
+footer
+{
+	height: 100px;
+	background-color: green;
+}
+.footer{
+	color: white;
+	text-align: center;
+	margin-top: 50px;
+}
+@media
+
